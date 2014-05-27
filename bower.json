@@ -22,6 +22,7 @@
     "tests"
   ],
   "dependencies": {
-    "sp-utils-middleware": "~0.0.1"
+    "sp-utils-middleware": "~0.0.1",
+    "sp-utils-serverclient":"~0.0.2"
   }
 }
