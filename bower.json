@@ -1,0 +1,27 @@
+{
+  "name": "sp-utils",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lexich/sp-utils",
+  "authors": [
+    "Efremov Alexey <alexey.efremov@saltpepper.ru>"
+  ],
+  "description": "groups of sp-utils-*",
+  "main": "main.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "sp-utils"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sp-utils-middleware": "~0.0.1"
+  }
+}
