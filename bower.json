@@ -6,10 +6,6 @@
     "Efremov Alexey <alexey.efremov@saltpepper.ru>"
   ],
   "description": "groups of sp-utils-*",
-  "main": "main.js",
-  "moduleType": [
-    "amd"
-  ],
   "keywords": [
     "sp-utils"
   ],
